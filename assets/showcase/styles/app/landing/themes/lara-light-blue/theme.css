@@ -753,7 +753,7 @@
   box-shadow: 0 0 0 0.2rem #BFDBFE;
 }
 .landing-themes .p-slider .p-slider-range {
-  background: #3B82F6;
+  background: #4e5e6b;
 }
 .landing-themes .p-slider:not(.p-disabled) .p-slider-handle:hover {
   background: #3B82F6;
@@ -761,7 +761,7 @@
 }
 .landing-themes .p-button {
   color: #ffffff;
-  background: #3B82F6;
+  background: #4d8087;
   border: 1px solid #3B82F6;
   padding: 0.75rem 1.25rem;
   font-size: 1rem;
@@ -780,12 +780,12 @@
 }
 .landing-themes .p-button.p-button-outlined {
   background-color: transparent;
-  color: #3B82F6;
+  color: #4e5e6b;
   border: 1px solid;
 }
 .landing-themes .p-button.p-button-outlined:enabled:hover, .landing-themes .p-button.p-button-outlined:not(button):not(a):not(.p-disabled):hover {
   background: rgba(99, 102, 241, 0.04);
-  color: #3B82F6;
+  color: #4d8087;
   border: 1px solid;
 }
 .landing-themes .p-button.p-button-outlined:enabled:active, .landing-themes .p-button.p-button-outlined:not(button):not(a):not(.p-disabled):active {
